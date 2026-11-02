@@ -1,7 +1,7 @@
 # AtomSD: Subgroup Discovery @ Arbitrary Support Thresholds
-This is the official repository of the NeurIPS 2026 paper **"Optimal Subgroup Discovery at Every Support Threshold"** by Lincen Yang, Qi Huang, Niki van Stein, Thomas Bäck, Matthijs van Leeuwen, and Zhong Li (LIACS, Leiden University).
+This is the official repository of the NeurIPS 2026 paper **"Optimal Subgroup Discovery at Every Support Threshold"**. 
 
-Note on naming: the method is called **AtomSD** in the paper. In the code, configuration files, and result files it appears as `cdtree` / `CDTree`, after the conditional density tree it builds on.
+Note on naming: the method is called **AtomSD** in the paper. In the code, configuration files, and result files it sometimes appears as `cdtree` / `CDTree`, after the conditional density tree it builds on.
 
 ## 🔥 Fast reproduction of main empirical results at [reproduce_results.ipynb](reproduce_results.ipynb)
 This helps reproduce the main tables and figures reported in the paper.
