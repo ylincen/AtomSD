@@ -1,0 +1,5 @@
+{"method": "CDTree","n_cv": 3, "rep_num": 1, "max_cpu": 64, "data_path": "/dataset/"}
+{"method": "Syflow","n_cv": 3, "rep_num": 1, "max_cpu": 64, "config": "Config_Real_World", "data_path": "/dataset/"}
+{"method": "SD_KL","n_cv": 3, "rep_num": 1, "max_cpu": 64, "config": "Config_SD", "data_path": "/dataset/"}
+{"method": "SD_Mean","n_cv": 3, "rep_num": 1, "max_cpu": 64, "config": "Config_SD", "data_path": "/dataset/"}
+{"method": "RSD","n_cv": 3, "rep_num": 1, "max_cpu": 64, "config": "Config_SD", "data_path": "/dataset/"}

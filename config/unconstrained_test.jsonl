@@ -1,0 +1,5 @@
+{"method": "CDTree", "TEST_MODE": true}
+{"method": "Syflow", "TEST_MODE": true, "config": "Config_Real_World"}
+{"method": "SD_KL", "TEST_MODE": true, "config": "Config_SD"}
+{"method": "SD_Mean", "TEST_MODE": true, "config": "Config_SD"}
+{"method": "RSD", "TEST_MODE": true, "config": "Config_SD"}
